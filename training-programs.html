@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>法人向け IT 研修プログラム — 株式会社新技研</title>
+  <meta name="description" content="JAVA / AWS / Salesforce / ServiceNow の 4 分野で、企業の現場配属を見据えた実践的な研修プログラムを提供しています。">
+  <meta name="keywords" content="IT研修, Java研修, AWS研修, Salesforce研修, ServiceNow研修, 法人研修, 企業研修, 株式会社新技研">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" rel="stylesheet">
+
+  <!-- Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/training-programs.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand">
+        <img src="assets/img/logo.png" alt="NTS" class="brand-icon">
+        <span class="brand-name">株式会社新技研</span>
+      </a>
+      <nav class="header-nav">
+        <a href="index.html" id="nav-home">トップ</a>
+        <a href="index.html#about" id="nav-about">会社概要</a>
+        <a href="index.html#services" id="nav-services">事業内容</a>
+        <a href="training-programs.html" id="nav-training" class="active">研修プログラム</a>
+        <a href="index.html#contact" id="nav-contact">お問い合わせ</a>
+        <a href="https://learn.nts-ed.com" id="nav-platform" class="cta-link" target="_blank" rel="noopener">学習プラットフォーム</a>
+
+        <div class="lang-switcher">
+          <button class="lang-toggle" id="lang-toggle" aria-label="Language">
+            <span class="material-icons">language</span>
+            <span id="lang-current">日本語</span>
+          </button>
+          <div class="lang-menu" id="lang-menu">
+            <button class="lang-option" data-lang="ja">日本語</button>
+            <button class="lang-option" data-lang="zh">中文</button>
+            <button class="lang-option" data-lang="en">English</button>
+          </div>
+        </div>
+      </nav>
+      <button class="mobile-toggle" aria-label="メニュー" onclick="document.querySelector('.header-nav').classList.toggle('open')">
+        <span class="material-icons">menu</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ======= Breadcrumb ======= -->
+  <nav class="breadcrumb">
+    <div class="container breadcrumb-inner">
+      <a href="index.html" id="breadcrumb-home">トップ</a>
+      <span class="breadcrumb-sep">/</span>
+      <span class="breadcrumb-current" id="breadcrumb-current">法人向け研修プログラム</span>
+    </div>
+  </nav>
+
+  <main>
+    <!-- ======= Hero ======= -->
+    <section class="training-hero">
+      <div class="container">
+        <div class="hero-badge">
+          <span class="material-icons">school</span>
+          <span id="hero-badge">法人向け IT 研修プログラム</span>
+        </div>
+        <h1 class="hero-title">
+          <span id="hero-title-1">実務で即戦力となる</span><br>
+          <span id="hero-title-2">エンジニアを育成</span>
+        </h1>
+        <p class="hero-subtitle" id="hero-subtitle">
+          株式会社新技研（NTS Education）は、Java / AWS / Salesforce / ServiceNow の 4 分野で、企業の現場配属を見据えた実践的な研修プログラムを提供しています。
+        </p>
+      </div>
+    </section>
+
+    <!-- ======= Programs ======= -->
+    <section class="programs-section">
+      <div class="container">
+        <div id="programs-list"></div>
+      </div>
+    </section>
+
+    <!-- ======= Flow ======= -->
+    <section class="flow-section">
+      <div class="container">
+        <h2 class="section-title text-center" id="flow-title">受講までの流れ</h2>
+        <p class="section-subtitle text-center" id="flow-subtitle">お問い合わせから受講開始まで、個別のご要望に合わせてご提案します</p>
+        <ol class="flow-steps" id="flow-steps"></ol>
+      </div>
+    </section>
+
+    <!-- ======= Contact ======= -->
+    <section class="training-contact">
+      <div class="container narrow text-center">
+        <h2 class="section-title" id="contact-title">お問い合わせ</h2>
+        <p class="section-subtitle" id="contact-subtitle">
+          各コースの開講時期や詳細カリキュラムについては、お気軽にお問い合わせください。担当者より 2 営業日以内にご連絡いたします。
+        </p>
+        <a href="mailto:info@nts-ed.com" class="btn btn-primary" id="contact-button">メールで問い合わせる</a>
+        <p class="contact-hours" id="contact-hours">受付時間: 平日 10:00〜16:00（土日祝を除く）</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- ======= Footer ======= -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <img src="assets/img/logo.png" alt="NTS" class="brand-icon">
+        <div>
+          <div class="brand-name">株式会社新技研</div>
+          <div class="brand-en">New Technology Research Co., Ltd.</div>
+        </div>
+      </div>
+      <div class="footer-info">
+        <p>〒141-0031 東京都品川区西五反田 8-8-16</p>
+        <p>お問い合わせ: <a href="mailto:info@nts-ed.com">info&#64;nts-ed.com</a></p>
+        <p class="footer-meta">対応言語: 日本語 / 中文 / English</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://learn.nts-ed.com" target="_blank" rel="noopener">学習プラットフォーム</a>
+        <span class="sep">|</span>
+        <a href="index.html#about">会社概要</a>
+        <span class="sep">|</span>
+        <a href="index.html#services">事業内容</a>
+      </div>
+    </div>
+    <div class="copyright">
+      &copy; <span id="year"></span> 株式会社新技研 All rights reserved.
+    </div>
+  </footer>
+
+  <script src="assets/js/training-programs.js"></script>
+</body>
+
+</html>
