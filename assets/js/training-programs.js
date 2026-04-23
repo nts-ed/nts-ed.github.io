@@ -51,7 +51,7 @@
           icon: 'code',
           name: 'JAVA エンジニア育成コース',
           tagline: '基礎から実践まで、4 段階のステップアップ型カリキュラム',
-          duration: '約 4 ヶ月（初級 → 中級 → 上級① → 上級② の 4 段階、各約 1 ヶ月）',
+          duration: '4 ヶ月（初級 → 中級 → 上級① → 上級② の 4 段階、各 1 ヶ月）',
           format: 'オンライン（Zoom）、平日 週 5 日',
           schedule: '随時開催（開始時期は個別にご相談ください）',
           target: [
@@ -74,7 +74,7 @@
           icon: 'cloud',
           name: 'AWS クラウド研修コース',
           tagline: 'ハンズオン中心で、現場で使える AWS を習得',
-          duration: '約 1 ヶ月',
+          duration: '1 ヶ月',
           format: 'オンライン（Zoom）、平日 週 5 日',
           schedule: '毎月開講（開始時期は個別にご相談ください）',
           target: [
@@ -97,7 +97,7 @@
           icon: 'cloud_sync',
           name: 'Salesforce 入門コース',
           tagline: 'ノーコード開発から Apex まで、幅広くカバー',
-          duration: '約 1 ヶ月',
+          duration: '1 ヶ月',
           format: 'オンライン（Zoom）、平日 週 5 日',
           schedule: '毎月開講（開始時期は個別にご相談ください）',
           target: [
@@ -120,7 +120,7 @@
           icon: 'account_tree',
           name: 'ServiceNow 入門コース',
           tagline: 'ITSM 標準プロセスとカスタマイズ手法を実践的に習得',
-          duration: '約 1 ヶ月',
+          duration: '1 ヶ月',
           format: 'オンライン（Zoom）、平日 週 5 日',
           schedule: '毎月開講（開始時期は個別にご相談ください）',
           target: [
@@ -143,7 +143,7 @@
         title: '受講までの流れ',
         subtitle: 'お問い合わせから受講開始まで、個別のご要望に合わせてご提案します',
         steps: [
-          'お問い合わせ（info@nts-ed.com）',
+          'お問い合わせ（（info）@nts-ed.com）',
           'ヒアリング（ご要望・対象者・希望時期の確認）',
           '詳細カリキュラム・開講日程のご提案',
           'お申込・受講契約',
@@ -210,7 +210,7 @@
           icon: 'code',
           name: 'JAVA 工程师培育课程',
           tagline: '基础到实战，4 阶段循序渐进型课程',
-          duration: '约 4 个月（初级 → 中级 → 高级① → 高级② 4 阶段，每阶段约 1 个月）',
+          duration: '4 个月（初级 → 中级 → 高级① → 高级② 4 阶段，每阶段 1 个月）',
           format: '在线（Zoom），工作日每周 5 天',
           schedule: '随时开课（具体开始时期请个别咨询）',
           target: [
@@ -233,7 +233,7 @@
           icon: 'cloud',
           name: 'AWS 云计算培训课程',
           tagline: '实操为核心，掌握现场可用的 AWS',
-          duration: '约 1 个月',
+          duration: '1 个月',
           format: '在线（Zoom），工作日每周 5 天',
           schedule: '每月开课（具体开始时期请个别咨询）',
           target: [
@@ -255,7 +255,7 @@
           icon: 'cloud_sync',
           name: 'Salesforce 入门课程',
           tagline: '无代码开发到 Apex 开发全覆盖',
-          duration: '约 1 个月',
+          duration: '1 个月',
           format: '在线（Zoom），工作日每周 5 天',
           schedule: '每月开课（具体开始时期请个别咨询）',
           target: [
@@ -278,7 +278,7 @@
           icon: 'account_tree',
           name: 'ServiceNow 入门课程',
           tagline: '实践性掌握 ITSM 标准流程与自定义手法',
-          duration: '约 1 个月',
+          duration: '1 个月',
           format: '在线（Zoom），工作日每周 5 天',
           schedule: '每月开课（具体开始时期请个别咨询）',
           target: [
@@ -300,7 +300,7 @@
         title: '申请流程',
         subtitle: '从咨询到开课，我们根据您的具体需求量身定制方案',
         steps: [
-          '发送咨询邮件至 info@nts-ed.com',
+          '发送咨询邮件至 （info）@nts-ed.com',
           '沟通需求（目标、受训对象、期望时期）',
           '提供详细课程方案及开课日程',
           '签约报名',
@@ -367,7 +367,7 @@
           icon: 'code',
           name: 'JAVA Engineer Training Program',
           tagline: 'A 4-stage step-up curriculum from fundamentals to production',
-          duration: 'Approx. 4 months (Beginner → Intermediate → Advanced I → Advanced II, about 1 month each)',
+          duration: '4 months (Beginner → Intermediate → Advanced I → Advanced II, 1 month each)',
           format: 'Online (Zoom), weekdays Monday–Friday',
           schedule: 'Available year-round (start date negotiable)',
           target: [
@@ -390,7 +390,7 @@
           icon: 'cloud',
           name: 'AWS Cloud Training',
           tagline: 'Hands-on curriculum for immediate on-site application',
-          duration: 'Approx. 1 month',
+          duration: '1 month',
           format: 'Online (Zoom), weekdays Monday–Friday',
           schedule: 'Monthly (start date negotiable)',
           target: [
@@ -413,7 +413,7 @@
           icon: 'cloud_sync',
           name: 'Salesforce Fundamentals',
           tagline: 'From low-code to custom Apex development',
-          duration: 'Approx. 1 month',
+          duration: '1 month',
           format: 'Online (Zoom), weekdays Monday–Friday',
           schedule: 'Monthly (start date negotiable)',
           target: [
@@ -436,7 +436,7 @@
           icon: 'account_tree',
           name: 'ServiceNow Fundamentals',
           tagline: 'Master ITSM standard processes and customization',
-          duration: 'Approx. 1 month',
+          duration: '1 month',
           format: 'Online (Zoom), weekdays Monday–Friday',
           schedule: 'Monthly (start date negotiable)',
           target: [
@@ -459,7 +459,7 @@
         title: 'Enrollment Process',
         subtitle: 'From inquiry to training start, we tailor proposals to your needs',
         steps: [
-          'Contact us at info@nts-ed.com',
+          'Contact us at （info）@nts-ed.com',
           'Discovery call (goals, target learners, desired timing)',
           'Tailored curriculum and schedule proposal',
           'Contract and enrollment',
@@ -599,12 +599,10 @@
           '</p>' +
           '</div>' +
           '<div class="program-cta">' +
-          '<a href="' +
-          buildMailto(dict, p.name) +
-          '" class="btn btn-primary">' +
+          '<button type="button" class="btn btn-primary">' +
           '<span class="material-icons">mail</span>' +
           escapeHtml(dict.labels.inquire) +
-          '</a>' +
+          '</button>' +
           '</div>' +
           '</article>'
         );
